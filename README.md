@@ -80,12 +80,10 @@
 ## Github Stats  
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-   <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik-noveau&show_icons=true&locale=en&layout=compact" alt="Karthick-S" />
+   <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik-noveau&show_icons=true&locale=en&layout=compact" alt="Karthik noveau" />
 <!--   <img style="height:10rem;"  src="https://github-readme-stats.vercel.app/api?username=KarthickSakthi&show_icons=true&locale=en" /> -->
 
   </div>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=karthik-noveau&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
