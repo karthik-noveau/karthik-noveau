@@ -21,7 +21,7 @@
 <br/>  
 
 
-## Rapidfire  
+
 <table><tr><td valign="top" width="100%">
 
 - 👨‍💻 I’m currently working at Kissflow as an Frontend Developer  
