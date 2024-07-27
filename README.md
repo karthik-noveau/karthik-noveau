@@ -53,12 +53,7 @@
 
 ## Github Stats  
 
-
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-noveau&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-noveau&hide_border=true&layout=compact" align="left" style="width: 50%" />
 
 
 
