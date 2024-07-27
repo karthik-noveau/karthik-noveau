@@ -14,7 +14,7 @@
 <br/>  
 
 
-## Technology 🛠  
+## Toold and Technology
 <table><tr><td valign="top" width="49%" style="paddingBottom:30px">
 
 
