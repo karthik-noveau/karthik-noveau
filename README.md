@@ -1,12 +1,4 @@
 ## Hi there 👋!  I'm Karthik  
-  
-
-
-  
-
-<br/>  
-
-
 
 
 - 👨‍💻 I’m currently working at Kissflow as an Frontend Developer  
