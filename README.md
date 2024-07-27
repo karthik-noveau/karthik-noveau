@@ -1,14 +1,6 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi there 👋! I'm Karthik</div>  
   
-
-
-
-### asdfasfaasdfasfa  
+ 
 - 👨‍💻 I’m currently working at Kissflow as an Frontend Developer  
   
 
