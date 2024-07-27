@@ -22,7 +22,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 👨‍💻 I’m currently working at Kissflow as an Frontend Developer  
   
@@ -31,10 +31,6 @@
   
 
 - 📫 How to reach me: https://portfolio.skynoveau.in/  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
