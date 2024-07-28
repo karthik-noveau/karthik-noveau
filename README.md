@@ -22,13 +22,12 @@
 </a>
 <a href="https://instagram.com/karthik_noveau" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<a href="https://twitter.com/karthiknoveau" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
+</a> 
 <a href="https://www.facebook.com/pfbid02aCZ57yxvo7LMduoXXi1u89HKWUupLJpTca4G38C4WCRn5n9bFgEszD4HfnmFGvaTl/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/karthiknoveau" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
 
